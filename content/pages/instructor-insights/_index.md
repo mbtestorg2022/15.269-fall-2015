@@ -76,7 +76,19 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 40% Class participation{{< br >}}- 25% Team response papers and team teaching exercise{{< br >}}- 15% Individual midterm paper{{< br >}}- 20% Individual final paper{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 40% Class participation
+- 25% Team response papers and team teaching exercise
+- 15% Individual midterm paper
+- 20% Individual final paper
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Instructor Insights on Assessment
 

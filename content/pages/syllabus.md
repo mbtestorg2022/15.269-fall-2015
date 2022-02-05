@@ -26,13 +26,90 @@ The syllabus for "Leadership Stories" brings together materials from a dozen nat
 Course Overview
 ---------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–2 | 1\. Introduction: The Importance of Story | &nbsp; |
-| 3–7 | 2\. Ethics and Authority | Team paper 1 due |
-| 8–12 | 3\. Leading from my Moral Compass |  {{< br >}}{{< br >}} Individual mid-term paper due {{< br >}}{{< br >}} Team paper 2 due {{< br >}}{{< br >}}  |
-| 13–18 | 4\. Social Enterprise | Team paper 3 due |
-| 19–22 | 5\. Conclusion: Leading Through Story | Final individual paper due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+1\. Introduction: The Importance of Story
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–7
+{{< tdclose >}}
+{{< tdopen >}}
+2\. Ethics and Authority
+{{< tdclose >}}
+{{< tdopen >}}
+Team paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–12
+{{< tdclose >}}
+{{< tdopen >}}
+3\. Leading from my Moral Compass
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual mid-term paper due
+
+Team paper 2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–18
+{{< tdclose >}}
+{{< tdopen >}}
+4\. Social Enterprise
+{{< tdclose >}}
+{{< tdopen >}}
+Team paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19–22
+{{< tdclose >}}
+{{< tdopen >}}
+5\. Conclusion: Leading Through Story
+{{< tdclose >}}
+{{< tdopen >}}
+Final individual paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Requirements
 -------------------
@@ -41,11 +118,56 @@ Students will be graded on class participation; on three team response papers an
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 40% |
-| Team response papers (3) and team teaching exercise | 25% |
-| Individual midterm paper | 15% |
-| Individual final paper | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team response papers (3) and team teaching exercise
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual midterm paper
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual final paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 In all cases, students' contributions will be judged for the depth of personal and philosophical insight they bring to the seminar. Paper and discussion topics will include those listed in the course description and syllabus: Story and management, ethics in society, individual values, social enterprise, leadership, diversity, and so on. The papers will invite students to focus on one or more of the texts / films covered up to that point in the semester, and to juxtapose their personal experiences with those described in the course material. All assignments encourage students to reflect on the implications of the seminar material for a definition of ethical behavior, and on the inherent ethical challenges and benefits of storytelling as a resource for leaders.
